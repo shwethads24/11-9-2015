@@ -1,0 +1,46 @@
+.nav ul #first
+{
+list-style-type: none;
+ margin: 10;
+ padding: 10;
+ 
+}
+.nav ul #second
+{
+list-style-type: none;
+ margin: 10;
+ padding: 10;
+ }
+.nav li
+{
+	float:left;
+	margin-right: 20px;
+
+}
+.nav a
+{
+display: inline;
+width:60px;
+}
+.middle
+{
+	height: 500px;
+	width: 800px;
+	background-image: url('http://www.glasgowarchitecture.co.uk/images/jpgs/park_mains_high_school_h231012_a2.jpg');
+	background-repeat: no-repeat;
+
+}
+ #quote
+{
+font-size: 20px;
+position:relative;
+top: 150px;
+left:80px;
+}
+.middle h1
+{
+
+position:relative;
+top: 80px;
+left:80px;
+}
